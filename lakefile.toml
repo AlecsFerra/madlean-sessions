@@ -1,0 +1,10 @@
+name = "madlean-sessions"
+version = "0.1.0"
+defaultTargets = ["madlean-sessions"]
+
+[[lean_lib]]
+name = "MadleanSessions"
+
+[[lean_exe]]
+name = "madlean-sessions"
+root = "Main"
